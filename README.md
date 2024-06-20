@@ -1,7 +1,7 @@
-# e-commerce-sales-dashboard
+# e-business-retail-report
 
 ## Overview
-The E-Commerce Sales Dashboard is a comprehensive data visualization project designed to provide insights into various aspects of an e-commerce business. This project uses two CSV files and one Power BI file to create visualizations for the following metrics:
+The E-Business Retail Report a comprehensive data visualization project designed to provide insights into various aspects of an e-commerce business. This project uses two CSV files and one Power BI file to create visualizations for the following metrics:
 
 Profit by Month
 Profit by Sub-Category
