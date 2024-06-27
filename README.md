@@ -41,7 +41,7 @@ Browse to the location of Orders.csv and click Open.
 In the preview window, click Load to import the data.
 
 ## Step 3 : Open the Power BI dashboard:
-### Open Seasonal Sales Report.pbix using Microsoft Power BI Desktop.
+
 ### Data Explanation
 ### Details.csv
 ### Columns:
